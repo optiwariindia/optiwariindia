@@ -15,7 +15,7 @@ Seasoned IT professional with over two decades of experience in software develop
 
 ## Professional Experience
 ------------------------
-### Tech Talent Solution, Jaipur (Aug 2023 - Present)
+### Tech Talent Solution, Udaipur
 **Role:** Principal Engineer
 
 **Key Responsibilities:**
@@ -23,18 +23,18 @@ Seasoned IT professional with over two decades of experience in software develop
 - Oversee the development of HRMS and business listing applications.
 - Ensure the implementation of best practices in software development.
 
-### Frequent Research Fieldwork Solutions, Delhi (Feb 2021 - Jul 2023)
+### Frequent Research Fieldwork Solutions, Delhi
 **Role:** IT Manager
 
 **Key Responsibilities:**
 - Managed a team of designers, content writers, SEO, and PPC specialists.
 - Directed projects including online survey websites and sample management tools.
-### iVAiDMarketing Private Limited, Delhi (Jul 2017 - Jan 2021)
+### iVAiDMarketing Private Limited, Delhi
 **Role:** IT Manager
 
 **Key Responsibilities:**
 - Supervised development teams for various projects including CRM and surveillance platforms.
-### PCTI Group, Delhi (Dec 2006 - Apr 2017)
+### PCTI Group, Delhi
 **Role:** System Administrator
 
 **Key Responsibilities:**
