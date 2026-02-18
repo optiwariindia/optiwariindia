@@ -1,51 +1,51 @@
 # Om Prakash Tiwari
-[+91 81302 02879](tel:+918130202879) | [optiwari.india@gmail.com](mailto:optiwari.india@gmail.com)
 
-## Professional Summary
-Seasoned IT professional with over two decades of experience in software development, team management, and IT infrastructure. Proven expertise in backend and frontend development, database management, and cloud computing. Adept at leading cross-functional teams and delivering innovative solutions that drive business success. 
-## Core Competencies
-------------------
-- Software Development
-- IT Management
-- Team Leadership
-- Agile Methodologies
-- Project Management
-- PHP/Laravel, Node.js, ReactJS
-- AWS, Docker, MySQL
+Senior Backend Engineer specializing in Distributed Systems, Microservices, and Scalable Infrastructure.
 
-## Professional Experience
-------------------------
-### Tech Talent Solution, Udaipur
-**Role:** Principal Engineer
+## Focus Areas
 
-**Key Responsibilities:**
-- Lead and manage a team of UI/UX designers, developers, QA, and DevOps.
-- Oversee the development of HRMS and business listing applications.
-- Ensure the implementation of best practices in software development.
+• Distributed systems architecture  
+• Microservices design  
+• Message-driven systems (NATS, queues)  
+• Backend scalability and performance  
+• Containerized infrastructure using Docker  
+• SQL and NoSQL database design  
 
-### Frequent Research Fieldwork Solutions, Delhi
-**Role:** IT Manager
+## Current Work
 
-**Key Responsibilities:**
-- Managed a team of designers, content writers, SEO, and PPC specialists.
-- Directed projects including online survey websites and sample management tools.
-### iVAiDMarketing Private Limited, Delhi
-**Role:** IT Manager
+Building a Distributed Notification System with:
 
-**Key Responsibilities:**
-- Supervised development teams for various projects including CRM and surveillance platforms.
-### PCTI Group, Delhi
-**Role:** System Administrator
+• Microservices architecture  
+• NATS message broker  
+• Priority-based queues  
+• Retry and fault-tolerant processing  
+• Docker containerization  
+• PostgreSQL and MongoDB persistence  
 
-**Key Responsibilities:**
-- Managed IT infrastructure, including server maintenance and network security.
+## Tech Stack
 
-## Education
+Backend:
+• Node.js
+• PostgreSQL
+• MongoDB
+• Redis
 
-B Tech (E&C) | 2004 | UP Technical University
+Infrastructure:
+• Docker
+• Linux
 
-## Technical Skills
+Architecture:
+• Microservices
+• Event-driven systems
+• REST APIs
+• Distributed processing
 
-- Languages: PHP, JavaScript, Node.js
-- Frameworks: Laravel, ReactJS
-- Tools: Docker, AWS, MySQL
+## Database Expertise
+
+• PostgreSQL (transactional systems)
+• MongoDB (high-volume document storage)
+• Redis (caching and fast access)
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/optiwariindia
